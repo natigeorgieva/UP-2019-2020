@@ -3,9 +3,13 @@ Task 1:
 
 Пример: 
 Вход: The job requires extra pluck and zeal from every young wage earner. 
+
 e
+
 d
+
 Изход: Thd job rdquirds dxtra pluck and zdal from dvdry young wagd darndr. 
+
 
 Task 2: 
 Да се напише функция, която по даден символен низ (масив от символи) да изведе броя на срещанията на всяка буква в него.
